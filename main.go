@@ -1,6 +1,6 @@
 package main
 
-import "github.com/kentaro-m/md2confl/cmd"
+import "github.com/kkoralsky/md2confl/cmd"
 
 func main() {
 	cmd.Execute()
